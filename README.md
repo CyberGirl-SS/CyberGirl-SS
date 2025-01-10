@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Seethalakshmi Suresh 🙋🏻‍♀️ Msc. Cybersecurity Management <br/> 
 
-<!--
-**CyberGirl-SS/CyberGirl-SS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+### A Cybersecurity Professional focused on becoming a Cybersecurity Analyst  👩🏻‍💻
+I am passionate about protecting information systems and detecting cyber threats.  My hobbies are, 
+- Reading 📚
+- Driving 🚗
+- cooking 👩🏻‍🍳
+  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me!  
+Feel free to reach out to discuss Cybersecurity, SOC Analyst opportunities, or just talk about Cybersecurity !!!  
+
+
