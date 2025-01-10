@@ -1,7 +1,7 @@
 Hi, I'm Seethalakshmi Suresh 🙋🏻‍♀️ Msc. Cybersecurity Management <br/> 
 
  
-### A Cybersecurity Professional focused on becoming a Cybersecurity Analyst  👩🏻‍💻
+### A Cybersecurity Professional focused on becoming a SOC Analyst  👩🏻‍💻
 I am passionate about protecting information systems and detecting cyber threats.  My hobbies are, 
 - Reading 📚
 - Driving 🚗
