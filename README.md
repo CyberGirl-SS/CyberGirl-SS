@@ -10,10 +10,7 @@ I am passionate about protecting information systems and detecting cyber threats
 
 ---
 
-### Wireshark
-- My name is seetha
-- Sidharth'
-- Nagendran
+---
 
 ### Connect with me!  
 Feel free to reach out to discuss Cybersecurity, SOC Analyst opportunities, or just talk about Cybersecurity !!!  
