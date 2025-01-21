@@ -9,7 +9,6 @@ I am passionate about protecting information systems and detecting cyber threats
   
 
 ---
-(https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjmke62p4aLAxXxJ0QIHbSiPcMQPAgI)[Google]
 ---
 
 ### Connect with me!  
