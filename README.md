@@ -22,7 +22,7 @@ I am passionate about protecting information systems and detecting cyber threats
 ---
 ### [<ins>Publications</ins>](https://github.com/CyberGirl-SS/CyberGirl-SS/tree/main/Publications)
 ---
-### [<ins>Certification</ins>](https://github.com/CyberGirl-SS/CyberGirl-SS/tree/main/Certification)
+### [<ins>Certification</ins>](https://github.com/CyberGirl-SS/CyberGirl-SS/tree/main/Certifications)
 ---
 ### Labs
 ---
