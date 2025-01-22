@@ -9,6 +9,22 @@ I am passionate about protecting information systems and detecting cyber threats
   
 
 ---
+### SOC Projects
+- HomeLab
+- Wireshark, NMAP
+- Incident Response Development
+- Log Analysis and Threat Hunting in Splunk
+---
+### Regulation and Compliance
+- DOD - Security Policies
+- CyberSec Program Development
+- Business Continuity and Disaster Recovery
+---
+### Publications
+---
+### Certification
+---
+### Labs
 ---
 
 ### Connect with me!  
