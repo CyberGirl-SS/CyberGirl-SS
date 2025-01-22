@@ -17,16 +17,16 @@ I am passionate about protecting information systems and detecting cyber threats
   - Incident Response Development
   - Log Analysis and Threat Hunting in Splunk
 
-**[<ins>Regulation and Compliance</ins>](https://github.com/CyberGirl-SS/CyberGirl-SS/tree/main/Regulation_Compliance)
-- DOD - Security Policies
-- CyberSec Program Development
-- Business Continuity and Disaster Recovery
+- **[<ins>Regulation and Compliance</ins>](https://github.com/CyberGirl-SS/CyberGirl-SS/tree/main/Regulation_Compliance)**
+  - DOD - Security Policies
+  - CyberSec Program Development
+  - Business Continuity and Disaster Recovery
 
-**[<ins>Publications</ins>](https://github.com/CyberGirl-SS/CyberGirl-SS/tree/main/Publications)
+- **[<ins>Publications</ins>](https://github.com/CyberGirl-SS/CyberGirl-SS/tree/main/Publications)**
 
-**[<ins>Certification</ins>](https://github.com/CyberGirl-SS/CyberGirl-SS/tree/main/Certifications)
+- **[<ins>Certification</ins>](https://github.com/CyberGirl-SS/CyberGirl-SS/tree/main/Certifications)**
 
-**Labs
+- **Labs**
 
 ---
 ### Connect with me!  
