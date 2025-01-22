@@ -15,7 +15,7 @@ I am passionate about protecting information systems and detecting cyber threats
 - Incident Response Development
 - Log Analysis and Threat Hunting in Splunk
 ---
-### Regulation and Compliance
+### [Regulation and Compliance](https://github.com/CyberGirl-SS/CyberGirl-SS/tree/main/Regulation_Compliance)
 - DOD - Security Policies
 - CyberSec Program Development
 - Business Continuity and Disaster Recovery
