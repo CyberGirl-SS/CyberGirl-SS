@@ -20,9 +20,9 @@ I am passionate about protecting information systems and detecting cyber threats
 - CyberSec Program Development
 - Business Continuity and Disaster Recovery
 ---
-### Publications
+### [Publications](https://github.com/CyberGirl-SS/CyberGirl-SS/tree/main/Publications)
 ---
-### Certification
+### [Certification](https://github.com/CyberGirl-SS/CyberGirl-SS/tree/main/Certification)
 ---
 ### Labs
 ---
