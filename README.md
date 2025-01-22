@@ -19,7 +19,7 @@ I am passionate about protecting information systems and detecting cyber threats
 
 - **[<ins>Regulation and Compliance</ins>](https://github.com/CyberGirl-SS/CyberGirl-SS/tree/main/Regulation_Compliance)**
   - DOD - Security Policies
-  - CyberSec Program Development
+  - CyberSecurity Program Development
   - Business Continuity and Disaster Recovery
 
 - **[<ins>Publications</ins>](https://github.com/CyberGirl-SS/CyberGirl-SS/tree/main/Publications)**
@@ -30,6 +30,6 @@ I am passionate about protecting information systems and detecting cyber threats
 
 ---
 ### Connect with me!  
-Feel free to reach out to discuss Cybersecurity, SOC Analyst opportunities, or just talk about Cybersecurity !!!  
+Feel free to reach out to discuss Cybersecurity, SOC Analyst opportunities, or just to talk about Cybersecurity !!!  
 
 
