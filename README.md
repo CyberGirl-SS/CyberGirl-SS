@@ -9,7 +9,7 @@ I am passionate about protecting information systems and detecting cyber threats
   
 
 ---
-### [SOC Projects](https://github.com/CyberGirl-SS/CyberGirl-SS/tree/main/SOC_Projects)
+### [<ins>SOC Projects</ins>](https://github.com/CyberGirl-SS/CyberGirl-SS/tree/main/SOC_Projects)
 - HomeLab
 - Wireshark, NMAP
 - Incident Response Development
