@@ -12,10 +12,10 @@ I am passionate about protecting information systems and detecting cyber threats
 ### 🔒 Cybersecurity Projects
 
 - **[<ins>SOC Projects</ins>](https://github.com/CyberGirl-SS/CyberGirl-SS/tree/main/SOC_Projects)**
- - HomeLab
- - Wireshark, NMAP
- - Incident Response Development
- - Log Analysis and Threat Hunting in Splunk
+  - HomeLab
+  - Wireshark, NMAP
+  - Incident Response Development
+  - Log Analysis and Threat Hunting in Splunk
 
 **[<ins>Regulation and Compliance</ins>](https://github.com/CyberGirl-SS/CyberGirl-SS/tree/main/Regulation_Compliance)
 - DOD - Security Policies
